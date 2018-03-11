@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.feign.EnableFeignClients;
 @SpringBootApplication
 @EnableFeignClients
 public class CartServiceApplication {
-
+ // Testing CICD Pipeline
 	public static void main(String[] args) {
 		SpringApplication.run(CartServiceApplication.class, args);
 	}
